@@ -1,0 +1,21 @@
+Excercise 2:
+1) Amer Issa -> A is the first letter -> 
+int n = 1 -> n/2 = 0.5
+round up 0.5
+Slide 1 = The Object Oriented Paradigm
+
+
+Excercise 5:
+Explain the following bytecode commands:
+•	ILOAD -  Load the int value from local variable at index
+•	IINC - increment local variable #index by signed byte const
+•	GOTO - goes to another instruction at branchoffset
+
+Assignments, loops, and any other methods you would like to implement in bytecode requires an abundant 
+amount of commands in order to perform tasks that would normally take a couple of lines of code in Java. 
+You must manually load, push, and store each variable which can be time consuming. You are almost writing 
+down each step that the program must go through in order to perform a simple task such as a for loop.
+
+I was able to correlate the methods I would regularly use with Java with the steps that were needed in order
+to create the same mehtod within bytecode. It gave me a more in-depth view of how certain methods such as 
+for-loops are processed within the program.
